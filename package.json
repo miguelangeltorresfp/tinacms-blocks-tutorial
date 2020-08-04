@@ -13,6 +13,7 @@
     "react-dropzone": "^11.0.1",
     "react-is": "^16.13.1",
     "react-scripts": "3.4.1",
+    "react-tinacms-inline": "^0.26.0",
     "styled-components": "^5.1.1",
     "tinacms": "^0.21.2",
     "typescript": "^3.9.5",
